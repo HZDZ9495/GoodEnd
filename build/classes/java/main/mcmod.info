@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "goodend",
+    "name": "good end",
+    "description": "",
+    "version": "1.0.3",
+    "credits": "HZDZ¡®s third mod",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://stb6.com",
+    "updateUrl": "",
+    "authorList": [
+      "HZDZ"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
